@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bandwagong</string>
+    <string name="str_permission_request_tips">存储权限用于：\\n\\n1.导入/导出主机的信息\\n2.保存应用程序的崩溃日志\\n\\n若想要正常使用此程序的功能，请允许该权限</string>
+</resources>
